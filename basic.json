@@ -1,0 +1,27 @@
+[
+  {
+    "ID": 1,
+    "HotelChain": "3 Palms",
+    "Url": ""
+  },
+  {
+    "ID": 2,
+    "HotelChain": "A&O Hostels",
+    "Url": ""
+  },
+  {
+    "ID": 3,
+    "HotelChain": "AAA",
+    "Url": ""
+  },
+  {
+    "ID": 4,
+    "HotelChain": "Abacus Merchant",
+    "Url": "http://www.freehotelsearch.com/Abacus_Merchant-chain.html"
+  },
+  {
+    "ID": 5,
+    "HotelChain": "Abad Hotels",
+    "Url": ""
+  }
+]
